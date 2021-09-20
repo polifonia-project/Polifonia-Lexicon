@@ -6,3 +6,5 @@ This repository contains the annotation files for the Polifonia musical lexicon 
 
 V1. BabelNet domains synsets were manually validated, discarding nonpertinent concepts and lexicalizations.
 
+V2. Missing lexicalizations were added by translator experts.
+
